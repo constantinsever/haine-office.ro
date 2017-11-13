@@ -1,0 +1,207 @@
+A:link {font-family: Arial, Helvetica, sans-serif; font-weight:bold; font-size:12px; color:#666666;text-decoration: none;}
+
+
+A:visited  {font-family: Arial, Helvetica, sans-serif; font-weight:bold; font-size:12px; color:#666666;text-decoration: none;}
+A:active {font-family: Arial, Helvetica, sans-serif; font-weight:bold; font-size:12px; color:#666666;text-decoration: none;}
+A:hover { color: red; font-family: Arial, Helvetica, sans-serif; font-weight:bold; font-size:12px;}
+
+
+.bold {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color:#666666;
+
+}
+
+
+.link_bold{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	font-weight: bold;
+	cursor: auto;
+}
+
+
+
+
+
+
+
+.link_mouseOn {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	cursor: pointer;
+	color:#FF0000;
+	/*background-color:#F3F3F3;*/
+}
+
+
+.link_mouseOff {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+font-weight: bold;
+color:#666666;
+}
+
+
+
+.formfield {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+    width: 100px;
+
+}
+
+.arial {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight: normal;
+    color:#666666;
+}
+
+.box_50 {
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+	width: 50px;
+	font-size: 12px;
+}
+
+.box_80 {
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+	width: 80px;
+	font-size: 12px;
+}
+
+.box_100 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	width: 100px;
+	height: auto;
+}
+
+.box_120 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	width: 120px;
+	height: auto;	
+}
+
+.box_150 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	width: 150px;
+	height: auto;
+}
+
+.box_200 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	width: 200px;
+	font-size: 12px;	
+}
+
+.box_250 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	width: 250px;
+	font-size: 12px;	
+}
+.box_300 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	width: 300px;
+	height: auto;	
+}
+
+
+.box_350 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	width: 350px;
+	height: auto;	
+}
+.box_400 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	width: 400px;
+	height: auto;	
+}
+
+.box_500 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	width: 500px;
+	height: auto;
+}
+
+.box_600 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+
+	width: 600px;
+	height: auto;
+}
+
+.box_650 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+
+	width: 650px;
+	height: auto;
+}
+
+
+
+.box_700 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	width: 700px;
+	height: auto;
+}
+
+.box_750 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	width: 750px;
+	height: auto;
+}
+
+
+.box_800 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	width: 780px;
+	height: auto;
+}
+
+
+
+.button_120{
+/*border:thin;*/
+border-style:outset;
+background-color:#F3F3F3;
+
+}
+
+
+
+
+.rounded_corner {
+	background-color: #FFFFFF;
+
+    padding: 5px;
+	
+	border: 1px solid #d7d7d7;
+	
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+
+
+}
+
+
+
